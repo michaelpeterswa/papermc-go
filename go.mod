@@ -1,3 +1,3 @@
-module github.com/michaelpeterswa/go-lib
+module nw.codes/papermc-go
 
 go 1.18
